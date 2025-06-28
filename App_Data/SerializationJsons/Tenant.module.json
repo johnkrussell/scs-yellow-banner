@@ -1,0 +1,16 @@
+{
+  "namespace": "Tenant",
+  "items": {
+    "includes": [
+      {
+        "name": "MySite",
+        "path": "/sitecore/content/MyTenant/MySite",
+		"scope": "SingleItem"
+      },
+      {
+        "name": "MySite Presentation",
+        "path": "/sitecore/content/MyTenant/MySite/Presentation"
+      }
+    ]
+  }
+}
